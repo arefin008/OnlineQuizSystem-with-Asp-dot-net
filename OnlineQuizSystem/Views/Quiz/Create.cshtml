@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+<form method="post">
+    <input type="Hidden" name="Id" value="@Model.Id" />
+    <input type="text" name="Title" value="@Model.Title" class="form-control" placeholder="Title" />
+    <span class="text-danger">@Html.ValidationMessage("Title")</span>
+    <input type="text" name="Description" value="@Model.Description" class="form-control" placeholder="Description" />
+    <span class="text-danger">@Html.ValidationMessage("Description")</span>
+    <input type="date" name="Date" value="@Model.Date" class="form-control" placeholder="Date" />
+    <span class="text-danger">@Html.ValidationMessage("Date")</span>
+    <input type="submit" value="Create" class="btn btn-success" />
+</form>
+

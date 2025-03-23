@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewBag.Title = "List";
+}
+
+<h2>List</h2>
+@{
+    var user = (OnlineQuizSystem.EF.User)Session["user"];
+}
+@if (user == null || user.Role == 2)
+{
+    <a href="/Login/Index" class="btn btn-success">Login</a>
+}
+@if (user != null && user.Role == 1)
+{
+    <a href="/Quiz/Create" class="btn btn-success">Create</a>
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Date</th>
+        
+
+
+    </tr>
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.Id</td>
+            <td>@d.Title</td>
+            <td>@d.Description</td>
+            <td>@d.Date</td>
+           
+
+            <td>
+                @if (user != null && user.Role == 1)
+                {
+                <a href="/Quiz/Edit/@d.Title" class="btn btn-warning">Edit</a>
+                <a href="/Quiz/Delete/@d.Title" class="btn btn-danger">Delete</a>
+                }
+
+            </td>
+        </tr>
+    }
+</table>
+
+

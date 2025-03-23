@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\onlinequizsystem\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|solutionrelative:onlinequizsystem\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\onlinequizsystem\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|solutionrelative:onlinequizsystem\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\onlinequizsystem\\views\\quiz\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|solutionrelative:onlinequizsystem\\views\\quiz\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\onlinequizsystem\\views\\quiz\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|solutionrelative:onlinequizsystem\\views\\quiz\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\onlinequizsystem\\views\\quiz\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|solutionrelative:onlinequizsystem\\views\\quiz\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\onlinequizsystem\\views\\quiz\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|solutionrelative:onlinequizsystem\\views\\quiz\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|d:\\11th semister of cse\\mid term\\advanced programming with .net [a]\\asp.net mid term practce work and lab tasks\\onlinequizsystem\\onlinequizsystem\\ef\\onlinequiz.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|solutionrelative:onlinequizsystem\\ef\\onlinequiz.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\onlinequizsystem\\dtos\\quizzedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|solutionrelative:onlinequizsystem\\dtos\\quizzedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\onlinequizsystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|solutionrelative:onlinequizsystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\onlinequizsystem\\ef\\quizze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|solutionrelative:onlinequizsystem\\ef\\quizze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\onlinequizsystem\\ef\\onlinequiz2.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|solutionrelative:onlinequizsystem\\ef\\onlinequiz2.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\onlinequizsystem\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|solutionrelative:onlinequizsystem\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\onlinequizsystem\\auth\\participantaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|solutionrelative:onlinequizsystem\\auth\\participantaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\onlinequizsystem\\auth\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|solutionrelative:onlinequizsystem\\auth\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\onlinequizsystem\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4791F586-B189-4A00-B97D-11425D71790C}|OnlineQuizSystem\\OnlineQuizSystem.csproj|solutionrelative:onlinequizsystem\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OnlineQuiz.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\EF\\OnlineQuiz.edmx",
+              "RelativeDocumentMoniker": "OnlineQuizSystem\\EF\\OnlineQuiz.edmx",
+              "ToolTip": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\EF\\OnlineQuiz.edmx [Diagram1]",
+              "RelativeToolTip": "OnlineQuizSystem\\EF\\OnlineQuiz.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-27T05:18:50.955Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuizzeDTO.cs",
+              "DocumentMoniker": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\DTOs\\QuizzeDTO.cs",
+              "RelativeDocumentMoniker": "OnlineQuizSystem\\DTOs\\QuizzeDTO.cs",
+              "ToolTip": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\DTOs\\QuizzeDTO.cs",
+              "RelativeToolTip": "OnlineQuizSystem\\DTOs\\QuizzeDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:20:25.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Views\\Quiz\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineQuizSystem\\Views\\Quiz\\Create.cshtml",
+              "ToolTip": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Views\\Quiz\\Create.cshtml",
+              "RelativeToolTip": "OnlineQuizSystem\\Views\\Quiz\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T05:43:20.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Views\\Quiz\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OnlineQuizSystem\\Views\\Quiz\\Delete.cshtml",
+              "ToolTip": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Views\\Quiz\\Delete.cshtml",
+              "RelativeToolTip": "OnlineQuizSystem\\Views\\Quiz\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T06:09:09.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Views\\Quiz\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineQuizSystem\\Views\\Quiz\\Edit.cshtml",
+              "ToolTip": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Views\\Quiz\\Edit.cshtml",
+              "RelativeToolTip": "OnlineQuizSystem\\Views\\Quiz\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T05:51:07.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Views\\Quiz\\List.cshtml",
+              "RelativeDocumentMoniker": "OnlineQuizSystem\\Views\\Quiz\\List.cshtml",
+              "ToolTip": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Views\\Quiz\\List.cshtml",
+              "RelativeToolTip": "OnlineQuizSystem\\Views\\Quiz\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T05:30:49.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "OnlineQuizSystem\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "OnlineQuizSystem\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:34:17.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "OnlineQuizSystem\\Controllers\\QuizController.cs",
+              "ToolTip": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "OnlineQuizSystem\\Controllers\\QuizController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:21:26.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OnlineQuiz2.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\EF\\OnlineQuiz2.edmx",
+              "RelativeDocumentMoniker": "OnlineQuizSystem\\EF\\OnlineQuiz2.edmx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OnlineQuizSystem\\OnlineQuizSystem\\EF\\OnlineQuiz2.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-27T06:04:00.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "OnlineQuizSystem\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "OnlineQuizSystem\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:36:12.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Quizze.cs",
+              "DocumentMoniker": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\EF\\Quizze.cs",
+              "RelativeDocumentMoniker": "OnlineQuizSystem\\EF\\Quizze.cs",
+              "ToolTip": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\EF\\Quizze.cs",
+              "RelativeToolTip": "OnlineQuizSystem\\EF\\Quizze.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:10:03.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineQuizSystem\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "OnlineQuizSystem\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T06:11:37.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "OnlineQuizSystem\\Auth\\Logged.cs",
+              "ToolTip": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Auth\\Logged.cs",
+              "RelativeToolTip": "OnlineQuizSystem\\Auth\\Logged.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:22:10.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminAccess.cs",
+              "DocumentMoniker": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Auth\\AdminAccess.cs",
+              "RelativeDocumentMoniker": "OnlineQuizSystem\\Auth\\AdminAccess.cs",
+              "ToolTip": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Auth\\AdminAccess.cs",
+              "RelativeToolTip": "OnlineQuizSystem\\Auth\\AdminAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:23:52.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParticipantAccess.cs",
+              "DocumentMoniker": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Auth\\ParticipantAccess.cs",
+              "RelativeDocumentMoniker": "OnlineQuizSystem\\Auth\\ParticipantAccess.cs",
+              "ToolTip": "D:\\11th semister of CSE\\Mid Term\\ADVANCED PROGRAMMING WITH .NET [A]\\ASP.NET Mid Term Practce Work and lab tasks\\OnlineQuizSystem\\OnlineQuizSystem\\Auth\\ParticipantAccess.cs",
+              "RelativeToolTip": "OnlineQuizSystem\\Auth\\ParticipantAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:59:08.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
